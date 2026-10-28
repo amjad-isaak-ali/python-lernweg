@@ -24,5 +24,15 @@ Das führt die Tests der Datei aus. Bei Erfolg steht "Alle Tests bestanden." da.
 | [Quadratzahlen](01-listen-und-schleifen/quadrate.py) | 2026-10-23 | 1 |
 | [Spanne einer Liste](01-listen-und-schleifen/spanne.py) | 2026-10-23 | 0 |
 | [Sind alle positiv?](01-listen-und-schleifen/alle_positiv.py) | 2026-10-27 | 0 |
+| [An welcher Stelle?](01-listen-und-schleifen/index_von.py) | 2026-10-28 | 0 |
 
-Stand: 2026-10-27, 6 Aufgaben
+## 02 Strings
+
+| Aufgabe | Gelöst am | Tipps genutzt |
+|---|---|---|
+| [Andere Zeichen zählen](02-strings/zaehle_andere.py) | 2026-10-28 | 0 |
+| [Ohne Leerzeichen](02-strings/ohne_leerzeichen.py) | 2026-10-28 | 0 |
+| [Buchstaben verdoppeln](02-strings/verdopple_buchstaben.py) | 2026-10-28 | 0 |
+| [Wort umdrehen](02-strings/wort_umdrehen.py) | 2026-10-28 | 1 (Reihenfolge beim +) |
+
+Stand: 2026-10-29, 11 Aufgaben
