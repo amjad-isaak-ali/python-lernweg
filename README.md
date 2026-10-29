@@ -25,6 +25,7 @@ Das führt die Tests der Datei aus. Bei Erfolg steht "Alle Tests bestanden." da.
 | [Spanne einer Liste](01-listen-und-schleifen/spanne.py) | 2026-10-23 | 0 |
 | [Sind alle positiv?](01-listen-und-schleifen/alle_positiv.py) | 2026-10-27 | 0 |
 | [An welcher Stelle?](01-listen-und-schleifen/index_von.py) | 2026-10-28 | 0 |
+| [Liste umdrehen](01-listen-und-schleifen/umdrehen.py) | 2026-10-29 | 0 |
 
 ## 02 Strings
 
@@ -34,5 +35,10 @@ Das führt die Tests der Datei aus. Bei Erfolg steht "Alle Tests bestanden." da.
 | [Ohne Leerzeichen](02-strings/ohne_leerzeichen.py) | 2026-10-28 | 0 |
 | [Buchstaben verdoppeln](02-strings/verdopple_buchstaben.py) | 2026-10-28 | 0 |
 | [Wort umdrehen](02-strings/wort_umdrehen.py) | 2026-10-28 | 1 (Reihenfolge beim +) |
+| [Vokale zählen](02-strings/zaehle_vokale.py) | 2026-10-29 | 0 |
+| [Palindrom erkennen](02-strings/ist_palindrom.py) | 2026-10-29 | 0 |
+| [Text umdrehen](02-strings/text_umdrehen.py) | 2026-10-29 | 0 |
+| [Gebäck-Filter](02-strings/gebaeck_filter.py) | 2026-10-29 | 2 Konzept-Hinweise (Index [0], Strings unveränderlich) |
+| [Endet-mit-Filter](02-strings/endet_mit.py) | 2026-10-29 | 0 |
 
-Stand: 2026-10-29, 11 Aufgaben
+Stand: 2026-10-29, 17 Aufgaben
