@@ -41,4 +41,15 @@ Das führt die Tests der Datei aus. Bei Erfolg steht "Alle Tests bestanden." da.
 | [Gebäck-Filter](02-strings/gebaeck_filter.py) | 2026-10-29 | 2 Konzept-Hinweise (Index [0], Strings unveränderlich) |
 | [Endet-mit-Filter](02-strings/endet_mit.py) | 2026-10-29 | 0 |
 
-Stand: 2026-10-29, 17 Aufgaben
+## 03 Slicing und in
+
+| Aufgabe | Gelöst am | Tipps genutzt |
+|---|---|---|
+| [Kürzel fürs Preisschild](03-slicing-und-in/kuerzel.py) | 2026-10-30 | 1 Konzept-Hinweis (continue) |
+| [Endungen für die Lieferliste](03-slicing-und-in/endungen.py) | 2026-10-30 | 0 |
+| [Erster und letzter Buchstabe](03-slicing-und-in/erster_und_letzter.py) | 2026-10-30 | 0 |
+| [Ohne Rand](03-slicing-und-in/ohne_rand.py) | 2026-10-30 | 1 Erklärung (Position statt Buchstabe, Slicing) |
+| [Beginnt mit ...](03-slicing-und-in/beginnt_mit.py) | 2026-10-30 | 1 Erklärung (Slicing mit len()) |
+| [Kommt das Wort vor?](03-slicing-und-in/enthaelt_wort.py) | 2026-10-30 | 0 |
+
+Stand: 2026-10-30, 23 Aufgaben
