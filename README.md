@@ -52,4 +52,12 @@ Das führt die Tests der Datei aus. Bei Erfolg steht "Alle Tests bestanden." da.
 | [Beginnt mit ...](03-slicing-und-in/beginnt_mit.py) | 2026-10-30 | 1 Erklärung (Slicing mit len()) |
 | [Kommt das Wort vor?](03-slicing-und-in/enthaelt_wort.py) | 2026-10-30 | 0 |
 
-Stand: 2026-10-30, 23 Aufgaben
+## 04 split und join
+
+| Aufgabe | Gelöst am | Tipps genutzt |
+|---|---|---|
+| [Wörter zählen](04-split-und-join/woerter_zaehlen.py) | 2026-10-31 | 0 |
+| [Längstes Wort](04-split-und-join/laengstes_wort.py) | 2026-11-02 | 0 |
+| [Kürzel aus einem Satz](04-split-und-join/kuerzel_aus_satz.py) | 2026-11-02 | 0 |
+
+Stand: 2026-11-02, 26 Aufgaben
