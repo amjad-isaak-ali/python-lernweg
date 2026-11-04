@@ -59,5 +59,6 @@ Das führt die Tests der Datei aus. Bei Erfolg steht "Alle Tests bestanden." da.
 | [Wörter zählen](04-split-und-join/woerter_zaehlen.py) | 2026-10-31 | 0 |
 | [Längstes Wort](04-split-und-join/laengstes_wort.py) | 2026-11-02 | 0 |
 | [Kürzel aus einem Satz](04-split-und-join/kuerzel_aus_satz.py) | 2026-11-02 | 0 |
+| [Wörter umdrehen](04-split-und-join/woerter_umdrehen.py) | 2026-11-03 | 1 Heft-Tipp, Hinweise (insert(0, ...)) |
 
-Stand: 2026-11-02, 26 Aufgaben
+Stand: 2026-11-04, 27 Aufgaben
