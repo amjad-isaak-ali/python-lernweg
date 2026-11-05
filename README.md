@@ -61,4 +61,10 @@ Das führt die Tests der Datei aus. Bei Erfolg steht "Alle Tests bestanden." da.
 | [Kürzel aus einem Satz](04-split-und-join/kuerzel_aus_satz.py) | 2026-11-02 | 0 |
 | [Wörter umdrehen](04-split-und-join/woerter_umdrehen.py) | 2026-11-03 | 1 Heft-Tipp, Hinweise (insert(0, ...)) |
 
-Stand: 2026-11-04, 27 Aufgaben
+## 05 Dictionaries
+
+| Aufgabe | Gelöst am | Tipps genutzt |
+|---|---|---|
+| [Preis nachschlagen](05-dictionaries/preis_von.py) | 2026-11-04 | 0 |
+
+Stand: 2026-11-05, 28 Aufgaben
