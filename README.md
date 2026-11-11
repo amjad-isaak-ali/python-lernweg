@@ -66,5 +66,6 @@ Das führt die Tests der Datei aus. Bei Erfolg steht "Alle Tests bestanden." da.
 | Aufgabe | Gelöst am | Tipps genutzt |
 |---|---|---|
 | [Preis nachschlagen](05-dictionaries/preis_von.py) | 2026-11-04 | 0 |
+| [Was kostet der Einkauf?](05-dictionaries/warenkorb_summe.py) | 2026-11-10 | 1 Heft-Tipp, Hinweise (not in statt == False) |
 
-Stand: 2026-11-05, 28 Aufgaben
+Stand: 2026-11-11, 29 Aufgaben
